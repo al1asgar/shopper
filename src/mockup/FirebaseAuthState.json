@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "lastSignInTime": 1614212334281,
+    "creationTime": 1614209567457
+  },
+  "phoneNumber": "+84886849339",
+  "displayName": null,
+  "isAnonymous": false,
+  "providerData": [
+    {
+      "email": null,
+      "phoneNumber": "+84886849339",
+      "uid": null,
+      "photoURL": null,
+      "displayName": null,
+      "providerId": "phone"
+    }
+  ],
+  "email": null,
+  "emailVerified": false,
+  "providerId": "firebase",
+  "photoURL": null,
+  "uid": "BghVscWcS1ba0ulA8eb37y4DLlM2"
+}

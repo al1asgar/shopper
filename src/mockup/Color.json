@@ -1,0 +1,89 @@
+[
+  {
+    "id": 2,
+    "name": "color",
+    "position": 0,
+    "visible": true,
+    "variation": true,
+    "options": [
+      "Black",
+      "Green",
+      "Pink"
+    ]
+  },
+  {
+    "id": 1,
+    "name": "size",
+    "position": 1,
+    "visible": true,
+    "variation": true,
+    "options": [
+      "L",
+      "M",
+      "S"
+    ]
+  }
+]
+
+[
+  {
+    "id": 36,
+    "name": "L",
+    "slug": "l",
+    "description": "",
+    "menu_order": 0,
+    "count": 29,
+    "_links": {
+      "self": [
+        {
+          "href": "http://18.222.202.99/wp-json/wc/v3/products/attributes/1/terms/36"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://18.222.202.99/wp-json/wc/v3/products/attributes/1/terms"
+        }
+      ]
+    }
+  },
+  {
+    "id": 37,
+    "name": "M",
+    "slug": "m",
+    "description": "",
+    "menu_order": 0,
+    "count": 29,
+    "_links": {
+      "self": [
+        {
+          "href": "http://18.222.202.99/wp-json/wc/v3/products/attributes/1/terms/37"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://18.222.202.99/wp-json/wc/v3/products/attributes/1/terms"
+        }
+      ]
+    }
+  },
+  {
+    "id": 38,
+    "name": "S",
+    "slug": "s",
+    "description": "",
+    "menu_order": 0,
+    "count": 29,
+    "_links": {
+      "self": [
+        {
+          "href": "http://18.222.202.99/wp-json/wc/v3/products/attributes/1/terms/38"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://18.222.202.99/wp-json/wc/v3/products/attributes/1/terms"
+        }
+      ]
+    }
+  }
+];

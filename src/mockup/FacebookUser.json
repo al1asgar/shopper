@@ -1,0 +1,45 @@
+{
+  "additionalUserInfo": {
+    "providerId": "facebook.com",
+    "profile": {
+      "email": "phuld_it@yahoo.com",
+      "name": "Barca Easup",
+      "last_name": "Easup",
+      "id": "935651896502533",
+      "first_name": "Barca",
+      "picture": {
+        "data": {
+          "is_silhouette": false,
+          "width": 100,
+          "url": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=935651896502533&height=100&width=100&ext=1616768142&hash=AeSzxl8kqHQWouvRW60",
+          "height": 100
+        }
+      }
+    },
+    "isNewUser": false
+  },
+  "user": {
+    "metadata": {
+      "lastSignInTime": 1614176142291,
+      "creationTime": 1614176006388
+    },
+    "phoneNumber": null,
+    "displayName": "Barca Easup",
+    "isAnonymous": false,
+    "providerData": [
+      {
+        "email": "phuld_it@yahoo.com",
+        "phoneNumber": null,
+        "uid": "935651896502533",
+        "photoURL": "https://graph.facebook.com/935651896502533/picture",
+        "displayName": "Barca Easup",
+        "providerId": "facebook.com"
+      }
+    ],
+    "email": "phuld_it@yahoo.com",
+    "emailVerified": false,
+    "providerId": "firebase",
+    "photoURL": "https://graph.facebook.com/935651896502533/picture",
+    "uid": "2PDUIZIH73dO01h24fgYvoRPYuW2"
+  }
+}
